@@ -1,7 +1,7 @@
 import './App.css';
 // import { useEffect, useState } from 'react';
 import Person from './components/Person/Person';
-import Header from './components/Header/Header';
+// import Header from './components/Header/Header';
 import Countries from './components/Countries/Countries';
 import Footer from './components/Footer/Footer';
 
